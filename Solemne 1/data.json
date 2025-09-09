@@ -1,0 +1,1082 @@
+[
+  {
+    "year":1980,
+    "age":"15-24 years",
+    "suicides_no":127
+  },
+  {
+    "year":1980,
+    "age":"25-34 years",
+    "suicides_no":103
+  },
+  {
+    "year":1980,
+    "age":"35-54 years",
+    "suicides_no":144
+  },
+  {
+    "year":1980,
+    "age":"5-14 years",
+    "suicides_no":4
+  },
+  {
+    "year":1980,
+    "age":"55-74 years",
+    "suicides_no":65
+  },
+  {
+    "year":1980,
+    "age":"75+ years",
+    "suicides_no":16
+  },
+  {
+    "year":1981,
+    "age":"15-24 years",
+    "suicides_no":121
+  },
+  {
+    "year":1981,
+    "age":"25-34 years",
+    "suicides_no":109
+  },
+  {
+    "year":1981,
+    "age":"35-54 years",
+    "suicides_no":188
+  },
+  {
+    "year":1981,
+    "age":"5-14 years",
+    "suicides_no":10
+  },
+  {
+    "year":1981,
+    "age":"55-74 years",
+    "suicides_no":88
+  },
+  {
+    "year":1981,
+    "age":"75+ years",
+    "suicides_no":20
+  },
+  {
+    "year":1982,
+    "age":"15-24 years",
+    "suicides_no":140
+  },
+  {
+    "year":1982,
+    "age":"25-34 years",
+    "suicides_no":99
+  },
+  {
+    "year":1982,
+    "age":"35-54 years",
+    "suicides_no":186
+  },
+  {
+    "year":1982,
+    "age":"5-14 years",
+    "suicides_no":9
+  },
+  {
+    "year":1982,
+    "age":"55-74 years",
+    "suicides_no":108
+  },
+  {
+    "year":1982,
+    "age":"75+ years",
+    "suicides_no":21
+  },
+  {
+    "year":1983,
+    "age":"15-24 years",
+    "suicides_no":134
+  },
+  {
+    "year":1983,
+    "age":"25-34 years",
+    "suicides_no":130
+  },
+  {
+    "year":1983,
+    "age":"35-54 years",
+    "suicides_no":150
+  },
+  {
+    "year":1983,
+    "age":"5-14 years",
+    "suicides_no":6
+  },
+  {
+    "year":1983,
+    "age":"55-74 years",
+    "suicides_no":117
+  },
+  {
+    "year":1983,
+    "age":"75+ years",
+    "suicides_no":21
+  },
+  {
+    "year":1984,
+    "age":"15-24 years",
+    "suicides_no":140
+  },
+  {
+    "year":1984,
+    "age":"25-34 years",
+    "suicides_no":147
+  },
+  {
+    "year":1984,
+    "age":"35-54 years",
+    "suicides_no":199
+  },
+  {
+    "year":1984,
+    "age":"5-14 years",
+    "suicides_no":10
+  },
+  {
+    "year":1984,
+    "age":"55-74 years",
+    "suicides_no":114
+  },
+  {
+    "year":1984,
+    "age":"75+ years",
+    "suicides_no":21
+  },
+  {
+    "year":1985,
+    "age":"15-24 years",
+    "suicides_no":133
+  },
+  {
+    "year":1985,
+    "age":"25-34 years",
+    "suicides_no":122
+  },
+  {
+    "year":1985,
+    "age":"35-54 years",
+    "suicides_no":174
+  },
+  {
+    "year":1985,
+    "age":"5-14 years",
+    "suicides_no":9
+  },
+  {
+    "year":1985,
+    "age":"55-74 years",
+    "suicides_no":100
+  },
+  {
+    "year":1985,
+    "age":"75+ years",
+    "suicides_no":34
+  },
+  {
+    "year":1986,
+    "age":"15-24 years",
+    "suicides_no":108
+  },
+  {
+    "year":1986,
+    "age":"25-34 years",
+    "suicides_no":124
+  },
+  {
+    "year":1986,
+    "age":"35-54 years",
+    "suicides_no":156
+  },
+  {
+    "year":1986,
+    "age":"5-14 years",
+    "suicides_no":7
+  },
+  {
+    "year":1986,
+    "age":"55-74 years",
+    "suicides_no":116
+  },
+  {
+    "year":1986,
+    "age":"75+ years",
+    "suicides_no":21
+  },
+  {
+    "year":1987,
+    "age":"15-24 years",
+    "suicides_no":116
+  },
+  {
+    "year":1987,
+    "age":"25-34 years",
+    "suicides_no":147
+  },
+  {
+    "year":1987,
+    "age":"35-54 years",
+    "suicides_no":160
+  },
+  {
+    "year":1987,
+    "age":"5-14 years",
+    "suicides_no":6
+  },
+  {
+    "year":1987,
+    "age":"55-74 years",
+    "suicides_no":120
+  },
+  {
+    "year":1987,
+    "age":"75+ years",
+    "suicides_no":19
+  },
+  {
+    "year":1988,
+    "age":"15-24 years",
+    "suicides_no":112
+  },
+  {
+    "year":1988,
+    "age":"25-34 years",
+    "suicides_no":160
+  },
+  {
+    "year":1988,
+    "age":"35-54 years",
+    "suicides_no":173
+  },
+  {
+    "year":1988,
+    "age":"5-14 years",
+    "suicides_no":5
+  },
+  {
+    "year":1988,
+    "age":"55-74 years",
+    "suicides_no":101
+  },
+  {
+    "year":1988,
+    "age":"75+ years",
+    "suicides_no":29
+  },
+  {
+    "year":1989,
+    "age":"15-24 years",
+    "suicides_no":140
+  },
+  {
+    "year":1989,
+    "age":"25-34 years",
+    "suicides_no":162
+  },
+  {
+    "year":1989,
+    "age":"35-54 years",
+    "suicides_no":170
+  },
+  {
+    "year":1989,
+    "age":"5-14 years",
+    "suicides_no":11
+  },
+  {
+    "year":1989,
+    "age":"55-74 years",
+    "suicides_no":109
+  },
+  {
+    "year":1989,
+    "age":"75+ years",
+    "suicides_no":34
+  },
+  {
+    "year":1990,
+    "age":"15-24 years",
+    "suicides_no":134
+  },
+  {
+    "year":1990,
+    "age":"25-34 years",
+    "suicides_no":148
+  },
+  {
+    "year":1990,
+    "age":"35-54 years",
+    "suicides_no":176
+  },
+  {
+    "year":1990,
+    "age":"5-14 years",
+    "suicides_no":9
+  },
+  {
+    "year":1990,
+    "age":"55-74 years",
+    "suicides_no":145
+  },
+  {
+    "year":1990,
+    "age":"75+ years",
+    "suicides_no":22
+  },
+  {
+    "year":1991,
+    "age":"15-24 years",
+    "suicides_no":142
+  },
+  {
+    "year":1991,
+    "age":"25-34 years",
+    "suicides_no":143
+  },
+  {
+    "year":1991,
+    "age":"35-54 years",
+    "suicides_no":222
+  },
+  {
+    "year":1991,
+    "age":"5-14 years",
+    "suicides_no":5
+  },
+  {
+    "year":1991,
+    "age":"55-74 years",
+    "suicides_no":111
+  },
+  {
+    "year":1991,
+    "age":"75+ years",
+    "suicides_no":31
+  },
+  {
+    "year":1992,
+    "age":"15-24 years",
+    "suicides_no":94
+  },
+  {
+    "year":1992,
+    "age":"25-34 years",
+    "suicides_no":162
+  },
+  {
+    "year":1992,
+    "age":"35-54 years",
+    "suicides_no":170
+  },
+  {
+    "year":1992,
+    "age":"5-14 years",
+    "suicides_no":6
+  },
+  {
+    "year":1992,
+    "age":"55-74 years",
+    "suicides_no":105
+  },
+  {
+    "year":1992,
+    "age":"75+ years",
+    "suicides_no":25
+  },
+  {
+    "year":1993,
+    "age":"15-24 years",
+    "suicides_no":118
+  },
+  {
+    "year":1993,
+    "age":"25-34 years",
+    "suicides_no":150
+  },
+  {
+    "year":1993,
+    "age":"35-54 years",
+    "suicides_no":187
+  },
+  {
+    "year":1993,
+    "age":"5-14 years",
+    "suicides_no":9
+  },
+  {
+    "year":1993,
+    "age":"55-74 years",
+    "suicides_no":110
+  },
+  {
+    "year":1993,
+    "age":"75+ years",
+    "suicides_no":50
+  },
+  {
+    "year":1994,
+    "age":"15-24 years",
+    "suicides_no":135
+  },
+  {
+    "year":1994,
+    "age":"25-34 years",
+    "suicides_no":184
+  },
+  {
+    "year":1994,
+    "age":"35-54 years",
+    "suicides_no":223
+  },
+  {
+    "year":1994,
+    "age":"5-14 years",
+    "suicides_no":2
+  },
+  {
+    "year":1994,
+    "age":"55-74 years",
+    "suicides_no":127
+  },
+  {
+    "year":1994,
+    "age":"75+ years",
+    "suicides_no":33
+  },
+  {
+    "year":1995,
+    "age":"15-24 years",
+    "suicides_no":149
+  },
+  {
+    "year":1995,
+    "age":"25-34 years",
+    "suicides_no":191
+  },
+  {
+    "year":1995,
+    "age":"35-54 years",
+    "suicides_no":271
+  },
+  {
+    "year":1995,
+    "age":"5-14 years",
+    "suicides_no":10
+  },
+  {
+    "year":1995,
+    "age":"55-74 years",
+    "suicides_no":144
+  },
+  {
+    "year":1995,
+    "age":"75+ years",
+    "suicides_no":42
+  },
+  {
+    "year":1996,
+    "age":"15-24 years",
+    "suicides_no":163
+  },
+  {
+    "year":1996,
+    "age":"25-34 years",
+    "suicides_no":174
+  },
+  {
+    "year":1996,
+    "age":"35-54 years",
+    "suicides_no":266
+  },
+  {
+    "year":1996,
+    "age":"5-14 years",
+    "suicides_no":7
+  },
+  {
+    "year":1996,
+    "age":"55-74 years",
+    "suicides_no":159
+  },
+  {
+    "year":1996,
+    "age":"75+ years",
+    "suicides_no":27
+  },
+  {
+    "year":1997,
+    "age":"15-24 years",
+    "suicides_no":147
+  },
+  {
+    "year":1997,
+    "age":"25-34 years",
+    "suicides_no":185
+  },
+  {
+    "year":1997,
+    "age":"35-54 years",
+    "suicides_no":260
+  },
+  {
+    "year":1997,
+    "age":"5-14 years",
+    "suicides_no":6
+  },
+  {
+    "year":1997,
+    "age":"55-74 years",
+    "suicides_no":137
+  },
+  {
+    "year":1997,
+    "age":"75+ years",
+    "suicides_no":41
+  },
+  {
+    "year":1998,
+    "age":"15-24 years",
+    "suicides_no":151
+  },
+  {
+    "year":1998,
+    "age":"25-34 years",
+    "suicides_no":208
+  },
+  {
+    "year":1998,
+    "age":"35-54 years",
+    "suicides_no":320
+  },
+  {
+    "year":1998,
+    "age":"5-14 years",
+    "suicides_no":4
+  },
+  {
+    "year":1998,
+    "age":"55-74 years",
+    "suicides_no":174
+  },
+  {
+    "year":1998,
+    "age":"75+ years",
+    "suicides_no":42
+  },
+  {
+    "year":1999,
+    "age":"15-24 years",
+    "suicides_no":137
+  },
+  {
+    "year":1999,
+    "age":"25-34 years",
+    "suicides_no":222
+  },
+  {
+    "year":1999,
+    "age":"35-54 years",
+    "suicides_no":323
+  },
+  {
+    "year":1999,
+    "age":"5-14 years",
+    "suicides_no":3
+  },
+  {
+    "year":1999,
+    "age":"55-74 years",
+    "suicides_no":167
+  },
+  {
+    "year":1999,
+    "age":"75+ years",
+    "suicides_no":51
+  },
+  {
+    "year":2000,
+    "age":"15-24 years",
+    "suicides_no":216
+  },
+  {
+    "year":2000,
+    "age":"25-34 years",
+    "suicides_no":305
+  },
+  {
+    "year":2000,
+    "age":"35-54 years",
+    "suicides_no":457
+  },
+  {
+    "year":2000,
+    "age":"5-14 years",
+    "suicides_no":8
+  },
+  {
+    "year":2000,
+    "age":"55-74 years",
+    "suicides_no":214
+  },
+  {
+    "year":2000,
+    "age":"75+ years",
+    "suicides_no":66
+  },
+  {
+    "year":2001,
+    "age":"15-24 years",
+    "suicides_no":253
+  },
+  {
+    "year":2001,
+    "age":"25-34 years",
+    "suicides_no":297
+  },
+  {
+    "year":2001,
+    "age":"35-54 years",
+    "suicides_no":540
+  },
+  {
+    "year":2001,
+    "age":"5-14 years",
+    "suicides_no":12
+  },
+  {
+    "year":2001,
+    "age":"55-74 years",
+    "suicides_no":239
+  },
+  {
+    "year":2001,
+    "age":"75+ years",
+    "suicides_no":51
+  },
+  {
+    "year":2002,
+    "age":"15-24 years",
+    "suicides_no":241
+  },
+  {
+    "year":2002,
+    "age":"25-34 years",
+    "suicides_no":296
+  },
+  {
+    "year":2002,
+    "age":"35-54 years",
+    "suicides_no":519
+  },
+  {
+    "year":2002,
+    "age":"5-14 years",
+    "suicides_no":17
+  },
+  {
+    "year":2002,
+    "age":"55-74 years",
+    "suicides_no":222
+  },
+  {
+    "year":2002,
+    "age":"75+ years",
+    "suicides_no":62
+  },
+  {
+    "year":2003,
+    "age":"15-24 years",
+    "suicides_no":234
+  },
+  {
+    "year":2003,
+    "age":"25-34 years",
+    "suicides_no":306
+  },
+  {
+    "year":2003,
+    "age":"35-54 years",
+    "suicides_no":522
+  },
+  {
+    "year":2003,
+    "age":"5-14 years",
+    "suicides_no":20
+  },
+  {
+    "year":2003,
+    "age":"55-74 years",
+    "suicides_no":252
+  },
+  {
+    "year":2003,
+    "age":"75+ years",
+    "suicides_no":68
+  },
+  {
+    "year":2004,
+    "age":"15-24 years",
+    "suicides_no":295
+  },
+  {
+    "year":2004,
+    "age":"25-34 years",
+    "suicides_no":315
+  },
+  {
+    "year":2004,
+    "age":"35-54 years",
+    "suicides_no":537
+  },
+  {
+    "year":2004,
+    "age":"5-14 years",
+    "suicides_no":15
+  },
+  {
+    "year":2004,
+    "age":"55-74 years",
+    "suicides_no":240
+  },
+  {
+    "year":2004,
+    "age":"75+ years",
+    "suicides_no":70
+  },
+  {
+    "year":2005,
+    "age":"15-24 years",
+    "suicides_no":265
+  },
+  {
+    "year":2005,
+    "age":"25-34 years",
+    "suicides_no":279
+  },
+  {
+    "year":2005,
+    "age":"35-54 years",
+    "suicides_no":512
+  },
+  {
+    "year":2005,
+    "age":"5-14 years",
+    "suicides_no":26
+  },
+  {
+    "year":2005,
+    "age":"55-74 years",
+    "suicides_no":252
+  },
+  {
+    "year":2005,
+    "age":"75+ years",
+    "suicides_no":69
+  },
+  {
+    "year":2006,
+    "age":"15-24 years",
+    "suicides_no":256
+  },
+  {
+    "year":2006,
+    "age":"25-34 years",
+    "suicides_no":287
+  },
+  {
+    "year":2006,
+    "age":"35-54 years",
+    "suicides_no":597
+  },
+  {
+    "year":2006,
+    "age":"5-14 years",
+    "suicides_no":20
+  },
+  {
+    "year":2006,
+    "age":"55-74 years",
+    "suicides_no":256
+  },
+  {
+    "year":2006,
+    "age":"75+ years",
+    "suicides_no":82
+  },
+  {
+    "year":2007,
+    "age":"15-24 years",
+    "suicides_no":302
+  },
+  {
+    "year":2007,
+    "age":"25-34 years",
+    "suicides_no":310
+  },
+  {
+    "year":2007,
+    "age":"35-54 years",
+    "suicides_no":532
+  },
+  {
+    "year":2007,
+    "age":"5-14 years",
+    "suicides_no":19
+  },
+  {
+    "year":2007,
+    "age":"55-74 years",
+    "suicides_no":270
+  },
+  {
+    "year":2007,
+    "age":"75+ years",
+    "suicides_no":63
+  },
+  {
+    "year":2008,
+    "age":"15-24 years",
+    "suicides_no":330
+  },
+  {
+    "year":2008,
+    "age":"25-34 years",
+    "suicides_no":346
+  },
+  {
+    "year":2008,
+    "age":"35-54 years",
+    "suicides_no":616
+  },
+  {
+    "year":2008,
+    "age":"5-14 years",
+    "suicides_no":14
+  },
+  {
+    "year":2008,
+    "age":"55-74 years",
+    "suicides_no":294
+  },
+  {
+    "year":2008,
+    "age":"75+ years",
+    "suicides_no":74
+  },
+  {
+    "year":2009,
+    "age":"15-24 years",
+    "suicides_no":330
+  },
+  {
+    "year":2009,
+    "age":"25-34 years",
+    "suicides_no":362
+  },
+  {
+    "year":2009,
+    "age":"35-54 years",
+    "suicides_no":613
+  },
+  {
+    "year":2009,
+    "age":"5-14 years",
+    "suicides_no":15
+  },
+  {
+    "year":2009,
+    "age":"55-74 years",
+    "suicides_no":316
+  },
+  {
+    "year":2009,
+    "age":"75+ years",
+    "suicides_no":88
+  },
+  {
+    "year":2010,
+    "age":"15-24 years",
+    "suicides_no":315
+  },
+  {
+    "year":2010,
+    "age":"25-34 years",
+    "suicides_no":307
+  },
+  {
+    "year":2010,
+    "age":"35-54 years",
+    "suicides_no":607
+  },
+  {
+    "year":2010,
+    "age":"5-14 years",
+    "suicides_no":18
+  },
+  {
+    "year":2010,
+    "age":"55-74 years",
+    "suicides_no":273
+  },
+  {
+    "year":2010,
+    "age":"75+ years",
+    "suicides_no":98
+  },
+  {
+    "year":2011,
+    "age":"15-24 years",
+    "suicides_no":312
+  },
+  {
+    "year":2011,
+    "age":"25-34 years",
+    "suicides_no":330
+  },
+  {
+    "year":2011,
+    "age":"35-54 years",
+    "suicides_no":575
+  },
+  {
+    "year":2011,
+    "age":"5-14 years",
+    "suicides_no":12
+  },
+  {
+    "year":2011,
+    "age":"55-74 years",
+    "suicides_no":339
+  },
+  {
+    "year":2011,
+    "age":"75+ years",
+    "suicides_no":89
+  },
+  {
+    "year":2012,
+    "age":"15-24 years",
+    "suicides_no":242
+  },
+  {
+    "year":2012,
+    "age":"25-34 years",
+    "suicides_no":319
+  },
+  {
+    "year":2012,
+    "age":"35-54 years",
+    "suicides_no":555
+  },
+  {
+    "year":2012,
+    "age":"5-14 years",
+    "suicides_no":8
+  },
+  {
+    "year":2012,
+    "age":"55-74 years",
+    "suicides_no":285
+  },
+  {
+    "year":2012,
+    "age":"75+ years",
+    "suicides_no":101
+  },
+  {
+    "year":2013,
+    "age":"15-24 years",
+    "suicides_no":224
+  },
+  {
+    "year":2013,
+    "age":"25-34 years",
+    "suicides_no":298
+  },
+  {
+    "year":2013,
+    "age":"35-54 years",
+    "suicides_no":516
+  },
+  {
+    "year":2013,
+    "age":"5-14 years",
+    "suicides_no":12
+  },
+  {
+    "year":2013,
+    "age":"55-74 years",
+    "suicides_no":288
+  },
+  {
+    "year":2013,
+    "age":"75+ years",
+    "suicides_no":82
+  },
+  {
+    "year":2014,
+    "age":"15-24 years",
+    "suicides_no":238
+  },
+  {
+    "year":2014,
+    "age":"25-34 years",
+    "suicides_no":289
+  },
+  {
+    "year":2014,
+    "age":"35-54 years",
+    "suicides_no":536
+  },
+  {
+    "year":2014,
+    "age":"5-14 years",
+    "suicides_no":12
+  },
+  {
+    "year":2014,
+    "age":"55-74 years",
+    "suicides_no":308
+  },
+  {
+    "year":2014,
+    "age":"75+ years",
+    "suicides_no":92
+  },
+  {
+    "year":2015,
+    "age":"15-24 years",
+    "suicides_no":224
+  },
+  {
+    "year":2015,
+    "age":"25-34 years",
+    "suicides_no":296
+  },
+  {
+    "year":2015,
+    "age":"35-54 years",
+    "suicides_no":513
+  },
+  {
+    "year":2015,
+    "age":"5-14 years",
+    "suicides_no":9
+  },
+  {
+    "year":2015,
+    "age":"55-74 years",
+    "suicides_no":301
+  },
+  {
+    "year":2015,
+    "age":"75+ years",
+    "suicides_no":117
+  }
+]
